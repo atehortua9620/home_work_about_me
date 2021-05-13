@@ -23,15 +23,15 @@ body {
 .My_name {
   position: absolute;
   top: 0px;
-  left: 170px;
+  left: 200px;
   color: black;
   background: #69ff00;
   padding: 10px;
   font-size: 30px;
   font-family: "Courier New", Courier, monospace;
   border: solid black 5px;
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   text-decoration: underline dashed black;
 }
 
@@ -55,6 +55,7 @@ body {
 
 .imagen {
   height: 200px;
+  width: 150;
   border-radius: 40%;
   border: solid black 4px;
   background-image: linear-gradient(
