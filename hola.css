@@ -1,0 +1,80 @@
+body {
+  background-image: radial-gradient(
+    circle at -19.64% 62.28%,
+    #fff56b 0,
+    #fff866 6.25%,
+    #fdfa63 12.5%,
+    #e7fb61 18.75%,
+    #d0fb62 25%,
+    #b5fa65 31.25%,
+    #97f86a 37.5%,
+    #73f670 43.75%,
+    #3cf278 50%,
+    #00ee82 56.25%,
+    #00ea8f 62.5%,
+    #00e69d 68.75%,
+    #00e2ad 75%,
+    #00dfbe 81.25%,
+    #00dbd1 87.5%,
+    #00d8e3 93.75%,
+    #00d6f6 100%
+  );
+}
+.My_name {
+  position: absolute;
+  top: 0px;
+  left: 170px;
+  color: black;
+  background: #69ff00;
+  padding: 10px;
+  font-size: 30px;
+  font-family: "Courier New", Courier, monospace;
+  border: solid black 5px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-decoration: underline dashed black;
+}
+
+.lista_o {
+  background: orange;
+  padding: 20px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  color: white;
+  border: solid 5px;
+}
+
+.lista_t {
+  background: #ff811c;
+  padding: 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
+  color: white;
+  border: solid 5px;
+}
+
+.imagen {
+  height: 200px;
+  border-radius: 40%;
+  border: solid black 4px;
+  background-image: linear-gradient(
+    170deg,
+    #ffffad 0,
+    #ffffae 6.25%,
+    #ffffb0 12.5%,
+    #ffffb2 18.75%,
+    #f2ffb5 25%,
+    #ddffb8 31.25%,
+    #c7ffba 37.5%,
+    #b1ffba 43.75%,
+    #9df2b9 50%,
+    #8be4b7 56.25%,
+    #7cd7b5 62.5%,
+    #70ccb4 68.75%,
+    #66c3b3 75%,
+    #5fbcb3 81.25%,
+    #5ab6b4 87.5%,
+    #57b2b6 93.75%,
+    #56b0ba 100%
+  );
+}
